@@ -1,2 +1,2 @@
 # OfficialDocuments
-Official documents
+Official documents, classified in 3 directories
