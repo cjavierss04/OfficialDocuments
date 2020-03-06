@@ -98,7 +98,7 @@ Las partes acuerdan lo siguiente:
 
 * Este Acuerdo define los términos que rigen las relaciones entre las partes, al establecer sus derechos y obligaciones, y establece las reglas de procedimiento para el trabajo que se llevará a cabo con el fin de implementar con éxito la acción Erasmus+ CBHE LA-CoNGA Physics (en lo sucesivo como el "proyecto").
 
-* El coordinador y los beneficiarios se comprometen a hacer todo lo que esté a su alcance para llevar a cabo el programa de trabajo que constituye el objeto de este Acuerdo, que se enmarca en el Acuerdo de Subvención 610456-EPP-1-2019-1-FR-EPPKA2-CBHE -JP, concluido entre el coordinador y la Agencia Ejecutiva de Educación, Audiovisual y Cultura (en adelante, la "Agencia Ejecutiva"), relacionada con el proyecto mencionado.
+* El coordinador y los beneficiarios se comprometen a hacer todo lo que esté a su alcance para llevar a cabo el programa de trabajo que constituye el objeto de este Acuerdo, el cual se enmarca en el Acuerdo de Subvención 610456-EPP-1-2019-1-FR-EPPKA2-CBHE -JP, concluido entre el coordinador y la Agencia Ejecutiva de Educación, Audiovisual y Cultura (en adelante, la "Agencia Ejecutiva"), relacionada con el proyecto mencionado.
 
 * El tema de este Acuerdo y el programa de trabajo relacionado se detallan en los anexos del Acuerdo de Subvención. Los respectivos términos y condiciones del Acuerdo de Subvención, anexos y directrices relacionados, formarán parte integrante del presente Acuerdo y prevalecerán sobre él (ver la lista de anexos en el Artículo 20 del presente Acuerdo).
 
@@ -191,10 +191,10 @@ Las partes acuerdan lo siguiente:
 * Obligaciones generales y función de los beneficiarios (incluido el coordinador). Los beneficiarios:
 
     * son responsables conjuntamente de llevar a cabo las actividades que se les atribuyen, y deberán realizar el trabajo de acuerdo con el programa de trabajo y el cronograma establecidos en el Acuerdo de Subvención y la solicitud aprobada, trabajando de la mejor manera posible para lograr los resultados definidos y tomando responsabilidad por su trabajo de acuerdo con los principios profesionales aceptados;
-    * comprometerse a cumplir con todas las disposiciones del Acuerdo de subvención y sus anexos, con todas las disposiciones de este Acuerdo, así como con la legislación nacional y de la UE;
+    * se comprometen a cumplir con todas las disposiciones del Acuerdo de subvención y sus anexos, con todas las disposiciones de este Acuerdo, así como con la legislación nacional y de la UE;
     * son responsables conjuntamente del cumplimiento de las obligaciones legales que les incumben conjunta o individualmente;
     * proporcionarán personal, instalaciones, equipo y material en la medida necesaria para ejecutar las actividades según lo especificado en el programa de trabajo;
-    * serán responsable de la buena gestión financiera y la rentabilidad de los fondos asignados al proyecto.
+    * serán responsables de la buena gestión financiera y la rentabilidad de los fondos asignados al proyecto.
 
 * Obligaciones específicas y función del coordinador. El coordinador se compromete a:
     * ser responsable de la coordinación general, gestión e implementación del proyecto de acuerdo con el Acuerdo de Subvención;
@@ -212,7 +212,7 @@ Las partes acuerdan lo siguiente:
     * asegurar una comunicación adecuada con el coordinador y con los otros beneficiarios;
     * apoyar al coordinador en el cumplimiento de sus tareas de acuerdo con el Acuerdo de subvención;
     * presentar a su debido tiempo al coordinador todos los datos relevantes necesarios para elaborar los informes, estados financieros y cualquier otro documento previsto en el Acuerdo de Subvención, así como todos los documentos necesarios en caso de auditorías, controles o evaluaciones;
-    * proporcionar al coordinador cualquier otra información o documentos que pueda necesitar y que sean necesarios para la gestión del proyecto;
+    * proporcionar al coordinador cualquier otra información o documentos que éste pueda necesitar y que sean necesarios para la gestión del proyecto;
     * notificar al coordinador de cualquier evento que pueda afectar o retrasar sustancialmente la implementación de la acción, así como de cualquier desviación importante del proyecto (por ejemplo, reemplazo de la persona de contacto del proyecto, cambios en el presupuesto del socio, desviaciones del plan de trabajo, etc.);
     * informar al coordinador de cualquier cambio en su situación legal, financiera, técnica, organizativa o de propiedad y de cualquier cambio en su nombre, dirección o representante legal.
     
@@ -442,7 +442,7 @@ Posibles opciones:
 * aplicar los importes de costes unitarios definidos en la Guía del programa Erasmus +
 * utilizar el procedimiento y las cantidades que se describen a continuación (en el Anexo XXX de este Acuerdo)
 
-Si bien las asociaciones de CBHE pueden usar / aplicar los montos de costos unitarios definidos en la Guía del Programa Erasmus + para el reembolso del personal, los viajes y los costos de estadía incurridos por las organizaciones beneficiarias para la implementación de las actividades del proyecto, se recomienda que definan sus propio procedimiento para cubrir estos costos. Este procedimiento puede ser común a todos los beneficiarios o variar de acuerdo con las necesidades o limitaciones específicas de los beneficiarios individuales. Puede estar basado
+Si bien las asociaciones de CBHE pueden usar / aplicar los montos de costos unitarios definidos en la Guía del Programa Erasmus + para el reembolso del personal, los viajes y los costos de estadía incurridos por las organizaciones beneficiarias para la implementación de las actividades del proyecto, se recomienda que definan su propio procedimiento para cubrir estos costos. Este procedimiento puede ser común a todos los beneficiarios o variar de acuerdo con las necesidades o limitaciones específicas de los beneficiarios individuales. Puede estar basado
 * en otros montos de costos unitarios que los especificados en la Guía del programa Erasmus + (incluso más si se considera necesario),
 * sobre el reembolso de los costos reales incurridos (con un máximo si es necesario) o
 * en una combinación de ambos
@@ -672,7 +672,7 @@ camacho@lpnhe.in2p3.fr
 ## Artículo 10 
 ## Confidencialidad y protección de datos
 
-* El coordinador y los beneficiarios se comprometen a preservar la confidencialidad de cualquier documento, información u otro material directamente relacionado con el tema del Acuerdo que esté debidamente clasificado como confidencial, si la divulgación puede causar perjuicio a la otra parte. Las partes quedarán obligadas por esta obligación más allá de la fecha de cierre de la acción.
+* El coordinador y los beneficiarios se comprometen a preservar la confidencialidad de cualquier documento, información u otro material directamente relacionado con el tema del Acuerdo que esté debidamente clasificado como confidencial, si la divulgación puede causar perjuicio a la otra parte. Las partes quedarán restringidas por esta obligación más allá de la fecha de cierre de la acción.
 
 * Todos los datos personales contenidos o relacionados con este Acuerdo se procesarán de acuerdo con las disposiciones del Acuerdo de subvención.
 
@@ -891,7 +891,7 @@ camacho@lpnhe.in2p3.fr
 
 * En el caso de que alguno de los beneficiarios no cumpla con las obligaciones establecidas en el presente Acuerdo o el Acuerdo de Subvención, el coordinador puede finalizar su participación en el proyecto, previa autorización formal por escrito de la Agencia Ejecutiva.
 
-* El coordinador notificará al beneficiario en causa por carta certificada. El beneficiario tiene un mes para proporcionar toda la información relevante para apelar la decisión.
+* El coordinador notificará al beneficiario afectado por carta certificada. El beneficiario tiene un mes para proporcionar toda la información relevante para apelar la decisión.
 
 </td>
 </tr>
