@@ -40,12 +40,12 @@ The parties hereby have agreed as follows:
 
 # Acuerdo de Asociación
 
-El presente Acuerdo de asociación, en lo sucesivo denominado "el Acuerdo", se elabora y se celebra entre y,
+El presente Acuerdo de asociación, en lo sucesivo denominado "el Acuerdo", se elabora y se celebra entre la,
 
 Université de Paris
 85 boulevard Saint-Germain, 75006 Paris France
 
-en lo sucesivo denominada "coordinador", representada a los efectos de la firma del Acuerdo por Christine Clerici, Présidente, la representante legal tal como se define en el Acuerdo de Subvención 610456-EPP-1-2019-1-FR-EPPKA2-CBHE-JP,
+en lo sucesivo denominada "coordinador", representada a los efectos de la firma del Acuerdo por Christine Clerici, Presidente, la representante legal tal como se define en el Acuerdo de Subvención 610456-EPP-1-2019-1-FR-EPPKA2-CBHE-JP,
 
 y los siguientes beneficiarios:
 
@@ -61,7 +61,7 @@ y los siguientes beneficiarios:
 10. Technische Universität Dresden –  establecida en Alemania
 11. Centre National de la Recherche Scientifique –  establecido en Francia
 
-en lo sucesivo, los "beneficiarios", representados a los fines de la firma de este Acuerdo por sus representantes legales, de acuerdo con los Mandatos previamente firmados y adjuntos al Acuerdo de Subvención (aquí en el Anexo IV)
+en lo sucesivo, los "beneficiarios", representados a los fines de la firma de este Acuerdo por sus representantes legales, de acuerdo con los Mandatos previamente firmados y adjuntos al Acuerdo de Subvención (aquí en el Anexo IV).
 
 Cuando una disposición se aplica sin distinción al "coordinador" y los "beneficiarios", a los efectos del presente Acuerdo, se los denominará colectivamente como los "beneficiarios".
 
