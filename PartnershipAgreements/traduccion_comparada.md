@@ -273,7 +273,7 @@ Las partes acuerdan lo siguiente:
 ## Article 5 
 ## Payment arrangements
 
-* The coordinator will transfer the part of the Erasmus+ grant contribution corresponding to each individual beneficiary using the accounts stipulated in Annex III of this Agreement.
+* The coordinator will transfer the part of the Erasmus+ grant contribution corresponding to each individual beneficiary using the accounts stipulated in Annex XXXX of this Agreement.
 The partnership should create an individual annex for each beneficiary with their bank account details and signed by the legal representative:
 
 [Name of Bank]
@@ -320,7 +320,7 @@ Reimbursement of costs incurred
 ## Artículo 5 
 ## Arreglos de pago
 
-* El coordinador transferirá la parte de la contribución de la beca Erasmus + correspondiente a cada beneficiario individual utilizando las cuentas estipuladas en el Anexo III de este Acuerdo.
+* El coordinador transferirá la parte de la contribución de la beca Erasmus + correspondiente a cada beneficiario individual utilizando las cuentas estipuladas en el Anexo XXXX de este Acuerdo.
 La asociación debe crear un anexo individual para cada beneficiario con los detalles de su cuenta bancaria y firmado por el representante legal:
 
 [Nombre del banco]
