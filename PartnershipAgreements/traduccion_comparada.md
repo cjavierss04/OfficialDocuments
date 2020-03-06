@@ -557,7 +557,7 @@ ocariz@in2p3.fr
 Para los beneficiarios:
 [Nombre del Beneficiario]
 [Nombre del gerente del proyecto]
-[habla a]
+[dirección]
 [correo electrónico]
 
 Universidad Industrial de Santander
