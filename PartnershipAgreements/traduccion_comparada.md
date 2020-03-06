@@ -815,7 +815,7 @@ camacho@lpnhe.in2p3.fr
 <td>
 
 ## Artículo 15 
-## La resolución de conflictos
+## Resolución de conflictos
 
 * En caso de conflicto entre los socios del proyecto como resultado de la interpretación o la aplicación de este Acuerdo, o en relación con las actividades contenidas en él, las partes involucradas harán el esfuerzo de llegar a un acuerdo amistoso rápidamente y en un espíritu de buena cooperación.
 
